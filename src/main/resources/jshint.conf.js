@@ -1,7 +1,7 @@
 {
     // Options
-    "maxparams": 3,
-    "indent": true,
+    "maxparams": 4,
+    "indent": 4,
     "camelcase": true,
     "eqeqeq": true,
     "forin": true,

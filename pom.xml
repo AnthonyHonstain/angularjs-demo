@@ -92,7 +92,6 @@
                 </executions>
                 <configuration>
                     <version>2.4.1</version>
-                    <options>maxparams:3,indent,camelcase,eqeqeq,forin,immed,latedef,noarg,noempty,nonew</options>
                     <!-- TODO - I have not got to using modules yet -->
                     <globals>require,$,yourFunkyJavascriptModule</globals>
                     <configFile>src/main/resources/jshint.conf.js</configFile>
