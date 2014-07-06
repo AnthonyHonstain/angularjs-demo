@@ -41,5 +41,10 @@ mvn compile exec:java
 2014-06-26 15:53:15.224:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8080 STARTING
 ```
 
+Running javascript
+```
+mvn jshint:lint
+```
+
 #### Result:
 * http://127.0.0.1:8080
