@@ -1,7 +1,7 @@
 angularjs-demo
 ===================
 
-Java and AngularJS
+Java and AngularJS - this is a simple walkthrough experiment project for playing with Java, JavaScript, and AngularJS in a single project. There is an emphasis on getting the basic dev tooling in place (unit testing, jshint, etc) and standing up a running service on a dev machine. 
 
 
 #### Helpful Links
